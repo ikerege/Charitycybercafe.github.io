@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Charitycybercafe| Pc & MAC Repairs</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="css/reset.css" type="text/css" media="screen">
+<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
+<link rel="stylesheet" href="css/grid.css" type="text/css" media="screen">
+<script src="js/jquery-1.7.1.min.js"></script>
+<script src="js/cufon-yui.js"></script>
+<script src="js/cufon-replace.js"></script>
+<script src="js/Vegur_500.font.js"></script>
+<script src="js/Ropa_Sans_400.font.js"></script>
+<script src="js/FF-cash.js"></script>
+<script src="js/script.js"></script>
+<!--[if lt IE 9]>
+<script src="js/html5.js"></script>
+<link rel="stylesheet" href="css/ie.css" type="text/css" media="screen">
+<![endif]-->
+</head>
+<body id="page2">
+<!--==============================header=================================-->
+<header>
+  <div class="border-bot">
+    <div class="main">
+      <h1><a href="index.html">InternetCafe</a></h1>
+      <nav>
+        <ul class="menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a class="active" href="events.html">Events</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="jobs.html">Jobs</a></li>
+          <li><a href="contact.html">Contacts</a></li>
+        </ul>
+      </nav>
+      <div class="clear"></div>
+    </div>
+  </div>
+</header>
+<!--==============================content================================-->
+<section id="content">
+  <div class="main">
+    <div class="container_12">
+      <div class="wrapper">
+        <article class="grid_8">
+          <h2>PC & MAC Repairs services</h2>
+          <h3>Latest IT / Cyber Security / Cyber Attack News</h3>
+          <h6 class="prev-indent-bot">11/4/2019
+Ransomware Viruses are on the rise, clients have been reporting more incidents in 2018 than in any previous years. It is now super critical for all clients to (1) double check on their backups and validate them. (2) ensure you have several types of backups, such as cloud, and local external drive backups. (3) ensure your devices have adequate antivirus protection (4) and practice safe internet usage protocols, which means do not open attachments from anyone (including the people you know), try not to browse to websites which are unknown and random.
+In the past several months two clients, have reported that all of their files, work documents and work applications, which maintain all their work client lists, client details, patient details, account payables etc, have all become useless and inaccessible, after realizing that their computers have become compromised, hacked, and hit with ransomware virus’s that have encrypted all of their files, with Ransome demand letters from the hackers.
+Unfortunately for various reasons, our clients did not have backups, and or their backups were compromised as well, thus left with the only choice to pay the Ransome demands, which are usually in the range of 1 Bitcoin, approximately $5000 to $6500 per bitcoin. In both cases, both clients paid the Ransome demand amounts, and in one incident the hacker was honorable at the end and provided the decryption program which restores all the files back to normal working condition. And on the second incident, the hacker was not honorable and did not provide the decryption reversal tool.
+Thus, for these reasons, at Charity Cyber IT Services we decided to start a new section on our website, to expose, inform, and educate the public on various ransomware incidents, and to most importantly also let the public know, of hackers whom are honorable, and hackers whom are dishonored since they did not provide the reversal decryption tool, after being paid.. </h6>
+          <p class="indent-bot">Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.</p>
+          <div class="wrapper p2">
+            <figure class="img-indent"><img src="images/page2-img1.jpg" alt=""></figure>
+            <div class="extra-wrap">
+              <ul class="list-1">
+                <li><a href="#">Pricings. </a></li>
+                <li><a href="#">Diagnostic & Repair (Virus & Spyware Removal).</a></li>
+                <li><a href="#"> Computer Checkup.</a></li>
+              </ul>
+            </div>
+          </div>
+          <h3 class="prev-indent-bot">Special Services</h3>
+          <div class="wrapper">
+            <div class="grid_4 alpha">
+              <figure class="p2"><img src="images/page2-img2.jpg" alt=""></figure>
+              <h6 class="prev-indent-bot">Reveal your PC’s processor and graphic card’s absolute power with this diagnostic, repair and upgrade service. We will troubleshoot, repair, optimize and clean your computer in addition to installing software and one hardware device.
+Technician Work Time: 3 to 4 hours</h6>
+              <p class="p2">Reveal your PC’s processor and graphic card’s absolute power with this diagnostic, repair and upgrade service. We will troubleshoot, repair, optimize and clean your computer in addition to installing software and one hardware device.
+Technician Work Time: 3 to 4 hours. </p>
+              <a class="link-1" href="#">Read More</a> </div>
+            <div class="grid_4 omega">
+              <figure class="p2"><img src="images/page2-img3.jpg" alt=""></figure>
+              <h6 class="prev-indent-bot">Want to have latest operating system running in your PC.? Let the experts do the job for you. Our technicians provide a complete installation/repair with the driver and software updates.
+Technician Work Time: 1 to 2 hours</h6>
+              <p class="p2">Know the root cause of the problem you are facing with your PC. After testing all of the software and hardware on your computer, we will explain about the problems. We will follow up with an estimate for repair and a professional system report so you can make an informed decision regarding your next step. Technician
+Work Time: 1 to 2 .</p>
+              <a class="link-1" href="#">Read More</a> </div>
+          </div>
+        </article>
+        <article class="grid_4">
+          <div class="indent-top indent-left">
+            <div class="wrapper margin-bot">
+              <figure class="img-indent-r"><a href="#"><img src="images/page1-img1.png" alt=""></a></figure>
+              <div class="extra-wrap"> <strong class="title-1">Tell Your<strong>Friends</strong><em>About</em><em>Our Cafe</em></strong> </div>
+            </div>
+            <h3>Latest News</h3>
+            <time class="tdate-1 p2" datetime="2012-02-21">21 February, 2019</time>
+            <p class="prev-indent-bot">Experience a faster, cleaner and more efficient PC with this diagnostic, repair and protection service. Our technician will clean, optimize and troubleshoot your computer for any malware or virus issue to ensure your computer is in perfect shape..</p>
+            <p><a class="link-1" href="#">Read More</a></p>
+            <time class="tdate-1 p2" datetime="2012-02-13">13 February, 2019</time>
+            <p class="prev-indent-bot">Save your important files, photos and music from unexpected crash with this diagnostic, repair and backup service for your PC. Our technician will troubleshoot and repair problems, remove viruses and make sure essential information is backed up.</p>
+            <p><a class="link-1" href="#">Read More</a></p>
+            <time class="tdate-1 p2" datetime="2019-02-13">21 February, 2019</time>
+            <p class="prev-indent-bot">Enjoy the full throttle power of your computer with this checkup service. Our technician will make sure everything is in working order and remove any unnecessary programs to improve your PC’s performance. We’ll also ensure all updates, software fixes and security enhancements are up to date..</p>
+            <p><a class="link-1" href="#">Read More</a></p>
+          </div>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
+<!--==============================footer=================================-->
+<footer>
+  <div class="main">
+    <div class="container_12">
+      <div class="wrapper">
+        <div class="grid_3">
+          <div class="spacer-1"> <a href="index.html"><img src="images/footer-logo.png" alt=""></a> </div>
+        </div>
+        <div class="grid_5">
+          <div class="indent-top2">
+            <p class="prev-indent-bot">&copy; 2012 Interior Website Template by <a target="_blank" href="http://www.templatemonster.com/">TemplateMonster.com</a></p>
+            Phone: +1 800 559 6580 Email: <a href="#">info@internetcafe.com</a> </div>
+        </div>
+        <div class="grid_4">
+          <ul class="list-services">
+            <li><a class="item-1" href="#"></a></li>
+            <li><a class="item-2" href="#"></a></li>
+            <li><a class="item-3" href="#"></a></li>
+            <li><a class="item-4" href="#"></a></li>
+          </ul>
+          <span class="footer-text">&copy; 2012 <a class="link color-2" href="#">Privacy Policy</a></span> </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<script>Cufon.now();</script>
+</body>
+</html>
